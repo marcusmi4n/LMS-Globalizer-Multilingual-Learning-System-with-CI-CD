@@ -22,6 +22,7 @@ A prototype of a localized Learning Management System with support for student r
 ### Backend (Ruby API)
 
 ```bash
+
 cd backend
 bundle install
 ruby app.rb
